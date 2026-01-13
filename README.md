@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CassioProgrammer&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevCaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
