@@ -33,7 +33,7 @@
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
   alt="GitHub Streak"
   style="max-width: 100%; filter: drop-shadow(0 0 10px #58a6ff);"
 />
