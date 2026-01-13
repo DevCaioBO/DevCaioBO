@@ -95,13 +95,13 @@ Desenvolvedor Full Stack apaixonado por criar soluções elegantes e eficientes.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevCaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=FF4DD8&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=DevCaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=FF4DD8&currStreakLabel=58a6ff)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCaioBO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=e0e0ff&title_color=FF4DD8&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=DevCaioBO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=e0e0ff&title_color=FF4DD8&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DevCaioBO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=e0e0ff&title_color=FF4DD8)
 
@@ -109,7 +109,7 @@ Desenvolvedor Full Stack apaixonado por criar soluções elegantes e eficientes.
 
 <div align="center">
 
-![GitHub Metrics](https://metrics.lecoq.io/CaioBO?template=classic&repositories.forks=false&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2Cprogramming&languages.recent.categories=markup%2Cprogramming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo&theme=dark)
+![GitHub Metrics](https://metrics.lecoq.io/DevCaioBO?template=classic&repositories.forks=false&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2Cprogramming&languages.recent.categories=markup%2Cprogramming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo&theme=dark)
 
 </div>
 
