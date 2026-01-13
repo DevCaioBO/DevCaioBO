@@ -28,7 +28,18 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
 
-</div>
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBO&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+  alt="GitHub Streak"
+  style="max-width: 100%; filter: drop-shadow(0 0 10px #58a6ff);"
+/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=80&section=footer"/>
+
 
