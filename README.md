@@ -107,11 +107,12 @@ Desenvolvedor Full Stack apaixonado por criar soluções elegantes e eficientes.
 
 </div>
 
-<div align="center">
-
-![GitHub Metrics](https://metrics.lecoq.io/DevCaioBO?template=classic&repositories.forks=false&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2Cprogramming&languages.recent.categories=markup%2Cprogramming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo&theme=dark)
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaioBO&layout=donut&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
